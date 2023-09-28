@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Harish!
 
+[![An image of @harishpotnuri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harishpotnuri)](https://holopin.io/@harishpotnuri)
+
 ## 💻 Tech Stack:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
