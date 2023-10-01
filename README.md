@@ -33,6 +33,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarishPotnuri&theme=nightowl&hide_border=false)<br/>
 
-![Snake animation](https://github.com/HarishPotnuri/HarishPotnuri/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/HarishPotnuri/HarishPotnuri/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![](https://visitcount.itsvg.in/api?id=HarishPotnuri&icon=0&color=0)
